@@ -1,6 +1,7 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: "모타겟의 엔진"
+description: "게임, 영화 그리고 프로그래밍"
+url: "https://mtg-pjh.github.io"
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,9 +33,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: "모타겟"
+  url: "https://mtg-pjh.github.io"
+  email: ""
 
 # Custom vars
 version: 3.0.0
