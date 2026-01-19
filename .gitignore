@@ -1,9 +1,10 @@
 # Ignore docs files
 _gh_pages
-_site
+_site/
 .ruby-version
-.sass-cache
-.jekyll-cache
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
 # Numerous always-ignore extensions
 *.diff

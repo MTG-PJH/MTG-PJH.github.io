@@ -34,7 +34,7 @@ sass:
 # Specify the author for blog posts
 author:
   name: "모타겟"
-  url: "https://mtg-pjh.github.io"
+  url: ""
   email: ""
 
 # Custom vars
